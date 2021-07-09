@@ -6,6 +6,8 @@
 # to remove the path, do the following
 # sys.path.remove(r'C:\Users\zding\Dropbox\Code\Python\macros')
 
+# 2021-07-09
+
 # multi-level index reference
 # df.xs('one',level='second')  pick the rows with index 'one'
 # df.loc(axis=0)[:,['one']]
